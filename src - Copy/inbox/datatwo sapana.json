@@ -1,0 +1,36 @@
+{
+  "EmpAccont": [
+    {
+      "id": "1",
+      "Empname": "Sapana Thakur",
+      "Empemail": "sapanathakur@gmail.com",
+      "Password": "123",
+      "Mobile": "1234567891",
+      "Designation": "Employee"
+    },
+    {
+      "id": "2",
+      "Empname": "Abhishek Thakur",
+      "Empemail": "shineabhishek@gmail.com",
+      "Password": "1234",
+      "Mobile": "2345678912",
+      "Designation": "Manager"
+    },
+    {
+      "id": "662e",
+      "Empname": "gyanesh jain ",
+      "Empemail": "12345@gmail.com",
+      "Password": "3456",
+      "Mobile": "234567",
+      "Designation": "Manager"
+    },
+    {
+      "id": "c98e",
+      "Empname": "koyal",
+      "Empemail": "alex@gmail.com",
+      "Password": "234",
+      "Mobile": "2345",
+      "Designation": "Manager"
+    }
+  ]
+}
